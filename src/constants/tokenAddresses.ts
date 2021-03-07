@@ -1,0 +1,6 @@
+export const candy = '0x0885198BbC7D33c20CfF807C0701F3A74d6858b5'
+export const candyv2 = '0x0885198BbC7D33c20CfF807C0701F3A74d6858b5'
+export const candyAddress = '0x0885198BbC7D33c20CfF807C0701F3A74d6858b5'
+export const masterChefAddress = '0x1095a7AB736910E4364bbb29782b103AFB02CaAc'
+export const wethPriceAddress = '0x0567F2323251f0Aab15c8dFb1967E4e8A7D42aeE'
+export const candyPriceAddress = '0x0567F2323251f0Aab15c8dFb1967E4e8A7D42aeE'
