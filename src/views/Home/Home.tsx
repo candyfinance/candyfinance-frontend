@@ -21,15 +21,15 @@ const Home: React.FC = () => {
 			</Container>
 			<Spacer size="lg" />
 			<StyledInfo>
-				Make sure you read the <a href="https://docs.cndy.finance">docs</a> before using the pools to be familiar with risks and fees!
+				Make sure you read the <a target="_blank" href="https://docs.cndy.finance">docs</a> before using the pools to be familiar with risks and fees!
 			</StyledInfo>
 			<Spacer size="md" />
 			<StyledInfo>
-				You can earn lots of candies by using Candy Finance's <a href="/farms/CNDY-WBNB%20Cake-LP">CNDY-WBNB</a> liquidity pool that yields up-to 48 times more CNDY than others!
+				You can earn lots of candies by using Candy Finance's <a href="#/farms/CNDY-WBNB%20Cake-LPP">CNDY-WBNB</a> liquidity pool that yields up-to 48 times more CNDY than others!
 			</StyledInfo>
 			<Spacer size="md" />
 			<StyledInfo>
-			   Earn 1$ worth of CNDY tokens every day, for every 1K followers you <a href="https://candyfinance.medium.com/candy-finance-airdrop-program-986e32c1c412">recommend $CNDY in a tweet</a>. If you have 5K followers you can earn 150$ a month!
+			   Earn 1$ worth of CNDY tokens every day, for every 1K followers you <a target="_blank" href="https://candyfinance.medium.com/candy-finance-airdrop-program-986e32c1c412">recommend $CNDY in a tweet</a>. If you have 5K followers you can earn 150$ a month!
 			</StyledInfo>
 			<Spacer size="md" />
 			<div

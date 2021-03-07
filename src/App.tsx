@@ -1,5 +1,5 @@
 import React, { useCallback, useEffect, useState } from 'react'
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
+import { HashRouter as Router, Route, Switch } from 'react-router-dom'
 import { ThemeProvider } from 'styled-components'
 //import {bsc,UseWalletProvider} from '@binance-chain/bsc-use-wallet'
 //import { UseWalletProvider } from 'use-wallet'
